@@ -1,0 +1,33 @@
+/*
+*Katherine Walton
+*4/15/19
+*German shephards are the best
+/* 
+
+/* The universal selector */
+
+* { 
+} 
+
+/* Body attributes here */
+
+body {
+   background-color: darkseagreen;
+}
+header{
+ background-color: burlywood;
+}
+main{
+    background-color: chocolate;
+}
+footer {
+    background-color: darkgrey;
+}
+a:link{
+    color:fuchsia;
+    background-color: azure;}
+a:hover, a:focus{
+    background-color: beige;
+    color:cadetblue;}
+ 
+table, td, th {border: 1px solid blue;}
